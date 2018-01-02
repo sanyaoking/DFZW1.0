@@ -1,0 +1,29 @@
+group 'DFZWGroup1.0'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile "io.vertx:vertx-core:3.5"
+    //mysqlvertx客户端
+    compile 'io.vertx:vertx-mysql-postgresql-client:3.5.0'
+    //mybatis
+    compile group: 'org.mybatis', name: 'mybatis', version: '3.4.5'
+    //mysql驱动
+    compile group: 'mysql', name: 'mysql-connector-java', version: '6.0.6'
+    compile "io.vertx:vertx-core:3.5"
+//  kafka
+    compile 'io.vertx:vertx-kafka-client:3.5.0'
+    compile group: 'org.apache.kafka', name: 'kafka-clients', version: '1.0.0'
+    compile 'com.hubrick.vertx:vertx-kafka-consumer:2.0.2'
+    compile group: 'org.apache.kafka', name: 'kafka_2.12', version: '1.0.0'
+    //bridge测试
+    compile 'io.vertx:vertx-tcp-eventbus-bridge:3.5.0'
+}

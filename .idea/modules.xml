@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DFZW1.0.iml" filepath="$PROJECT_DIR$/.idea/modules/DFZW1.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DFZW1.0_main.iml" filepath="$PROJECT_DIR$/.idea/modules/DFZW1.0_main.iml" group="DFZW1.0" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/DFZW1.0_test.iml" filepath="$PROJECT_DIR$/.idea/modules/DFZW1.0_test.iml" group="DFZW1.0" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/debtms.iml" filepath="$PROJECT_DIR$/.idea/modules/debtms.iml" group="debtms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/debtms/debtms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/debtms/debtms_main.iml" group="debtms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/debtms/debtms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/debtms/debtms_test.iml" group="debtms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fetch/fetch.iml" filepath="$PROJECT_DIR$/.idea/modules/fetch/fetch.iml" group="fetch" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fetchms.iml" filepath="$PROJECT_DIR$/.idea/modules/fetchms.iml" group="fetchms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fetchms/fetchms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/fetchms/fetchms_main.iml" group="fetchms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fetchms/fetchms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/fetchms/fetchms_test.iml" group="fetchms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/file/file.iml" filepath="$PROJECT_DIR$/.idea/modules/file/file.iml" group="file" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filems.iml" filepath="$PROJECT_DIR$/.idea/modules/filems.iml" group="filems" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filems/filems_main.iml" filepath="$PROJECT_DIR$/.idea/modules/filems/filems_main.iml" group="filems" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/filems/filems_test.iml" filepath="$PROJECT_DIR$/.idea/modules/filems/filems_test.iml" group="filems" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/initdfzw.iml" filepath="$PROJECT_DIR$/.idea/modules/initdfzw.iml" group="initdfzw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/initdfzw/initdfzw_main.iml" filepath="$PROJECT_DIR$/.idea/modules/initdfzw/initdfzw_main.iml" group="initdfzw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/initdfzw/initdfzw_test.iml" filepath="$PROJECT_DIR$/.idea/modules/initdfzw/initdfzw_test.iml" group="initdfzw" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka.iml" group="kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka/kafka_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka/kafka_main.iml" group="kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kafka/kafka_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kafka/kafka_test.iml" group="kafka" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logms.iml" filepath="$PROJECT_DIR$/.idea/modules/logms.iml" group="logms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logms/logms_main.iml" filepath="$PROJECT_DIR$/.idea/modules/logms/logms_main.iml" group="logms" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/logms/logms_test.iml" filepath="$PROJECT_DIR$/.idea/modules/logms/logms_test.iml" group="logms" />
+    </modules>
+  </component>
+</project>

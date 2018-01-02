@@ -1,0 +1,10 @@
+rootProject.name = 'DFZW1.0'
+include 'fetch'
+include 'file'
+include 'kafka'
+include 'initdfzw'
+include 'debtms'
+include 'fetchms'
+include 'filems'
+include 'logms'
+

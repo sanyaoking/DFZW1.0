@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="debt_main" target="1.8" />
+      <module name="debt_test" target="1.8" />
+      <module name="debtms_main" target="1.8" />
+      <module name="debtms_test" target="1.8" />
+      <module name="DFZW1.0_main" target="1.8" />
+      <module name="DFZW1.0_test" target="1.8" />
+      <module name="fetch_main" target="1.8" />
+      <module name="fetch_test" target="1.8" />
+      <module name="fetchms_main" target="1.8" />
+      <module name="fetchms_test" target="1.8" />
+      <module name="file_main" target="1.8" />
+      <module name="file_test" target="1.8" />
+      <module name="filems_main" target="1.8" />
+      <module name="filems_test" target="1.8" />
+      <module name="initdfzw_main" target="1.8" />
+      <module name="initdfzw_test" target="1.8" />
+      <module name="kafka_main" target="1.8" />
+      <module name="kafka_test" target="1.8" />
+      <module name="logms_main" target="1.8" />
+      <module name="logms_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
